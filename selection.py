@@ -33,4 +33,4 @@ for index in range(len(my_list) - 1):
     else:
         input(str(next_min_value) + " is greater than " + str(my_list[index]) + ", so " + str(my_list[index]) + " is in the right place.")
 print("We are now finished. The fully sorted list is:")
-print(my_list)
+print(my_list)  
